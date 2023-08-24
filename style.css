@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.botao{
+    background-color: rgb(89, 218, 132);
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+}
+
+h3{
+    margin: 10px;
+}
+
+header{
+    display: flex;
+    padding: 10px;;
+    align-items: center;
+    width: 100%;
+    background: linear-gradient(to right,rgb(177, 227, 255),white);
+    border-radius:2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.entrar{
+    padding: 5px 0 5px 0;
+    
+}
